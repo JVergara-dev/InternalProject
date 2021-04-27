@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "eRequestWebInternal", "eRequestWebInternal\eRequestWebInternal.vbproj", "{137BC198-AD21-4AEB-AED8-936500538AC1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Support", "Support\Support.vbproj", "{67447D2A-7779-40CB-8F85-B1B2DD85E810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137BC198-AD21-4AEB-AED8-936500538AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137BC198-AD21-4AEB-AED8-936500538AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137BC198-AD21-4AEB-AED8-936500538AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137BC198-AD21-4AEB-AED8-936500538AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67447D2A-7779-40CB-8F85-B1B2DD85E810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67447D2A-7779-40CB-8F85-B1B2DD85E810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67447D2A-7779-40CB-8F85-B1B2DD85E810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67447D2A-7779-40CB-8F85-B1B2DD85E810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
