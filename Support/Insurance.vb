@@ -11,7 +11,7 @@ Public Class Insurances
     Public Function SelectInsurance() As List(Of Insurance)
         Dim retObj As New List(Of Insurance)
         Dim con As New SqlConnection(Parameters.eRequestConnectionString)
-        Dim cmd As SqlCommand = New SqlCommand("sp_SelectInsurance", con)
+        Dim cmd As SqlCommand = New SqlCommand("sp_SelectInsuranceTEsts", con)
         cmd.CommandType = CommandType.StoredProcedure
         Try
             con.Open()
